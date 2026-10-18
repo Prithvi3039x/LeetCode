@@ -13,4 +13,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prithvi3039x/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Prithvi3039x/LeetCode/tree/master/0125-valid-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Prithvi3039x/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
